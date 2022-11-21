@@ -9,7 +9,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 import requests
 
 
-TOKEN = "5932460408:AAEmBjR_RcWdnZ985_WSQjDhQfykAmQs7eY"
+TOKEN = "must_be_your_own"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot=bot)
